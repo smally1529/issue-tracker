@@ -4,7 +4,7 @@
    
 # Hosted URL :- 
  
-     https://issue-tracker-project-6tab.onrender.com 
+    https://issue-tracker-project-6tab.onrender.com
   
 # Video Link :- 
     
