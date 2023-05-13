@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://jyotiyadav:12345@cluster0.dx0emas.mongodb.net/);
+mongoose.connect('mongodb+srv://jyotiyadav:12345@cluster0.dx0emas.mongodb.net/');
 const db = mongoose.connection;
 
 //If any Error then Getting this Line
